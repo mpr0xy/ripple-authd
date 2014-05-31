@@ -22,7 +22,13 @@ npm run gen
 # Running
 
 ``` sh
-node app
+node server
+```
+
+or
+
+```
+npm start
 ```
 
 Note that `ripple-authd` is purely an API server, so there are no HTML pages
